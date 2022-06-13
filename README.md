@@ -1,10 +1,6 @@
 # Airline's Customer Segmentation
 
-Using unsupervised machine learning for this dataset through reducing features to select necessary factor for RFM model 
-
-
-This dataset contain end to end project with conclussion 
-
+Using unsupervised machine learning for this airline dataset through reducing features to select necessary factor for RFM model 
 
 The customer segment consists of 4 clusters, so that marketing can be focused on them with following 
 
