@@ -1,5 +1,6 @@
 # Airline's Customer Segmentation
 
+Dataset source https://www.kaggle.com/competitions/sa-customer-segmentation 
 Using unsupervised machine learning for this airline dataset through reducing features to select necessary factor for RFM model 
 
 The customer segment consists of 4 clusters, so that marketing can be focused on them with following 
